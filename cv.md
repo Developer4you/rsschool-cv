@@ -1,5 +1,5 @@
 ![myPhoto](/myPhoto.jpg)
-#Averkin Andrei
+# Averkin Andrei
 Frontend developer
 Republic of Belarus, Gomel
 +375296206170
@@ -7,9 +7,9 @@ avervalpet@gmail.com
 https://github.com/Developer4you
 
 
-*My goal is to help people by creating cool apps in a team of* *like-minded people. Thanks to perseverance and curiosity, I am* *constantly developing and learning every day.*
+*My goal is to help people by creating cool apps in a team of like-minded people. Thanks to perseverance and curiosity, I am constantly developing and learning every day.*
 
-##Programming languages, frameworks and tools:
+## Programming languages, frameworks and tools:
 * HTML
 * CSS
 * Javascript
@@ -19,8 +19,9 @@ https://github.com/Developer4you
 * Git
 * Photoshop
 
-##Sample code:
-```function findShort(s){
+## Sample code:
+```
+function findShort(s){
   s = s.split(' ')
     let world = s.reduce((min, w) =>{
       if (min.length<w.length) return min
@@ -29,14 +30,14 @@ https://github.com/Developer4you
 }
 ```
 
-##Experience in IT:
+## Experience in IT:
 Self-study of HTML, CSS using documentation, videos and on the freeCodeCamp website, solving test tasks
 Self-study of Javascript using documentation and videos, solving test tasks
 Internal courses of Clevertech company from January 2021 to June 2021 with project protection using JS, React.
 Training in the IT-Incubator from August 2021
 Training at RS-School from September 2021
 
-##Education:
+## Education:
 Electrical Engineer (Belarusian State University of Transport)
 Engineer for the Prevention and Elimination of Emergency Situations (Institute of Retraining and Advanced Training of the Ministry of Emergency Situations of the Republic of Belarus)
 Head (project manager in construction) (training courses with the issuance of a certificate)

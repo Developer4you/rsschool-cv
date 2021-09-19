@@ -4,7 +4,7 @@ Frontend developer
 Republic of Belarus, Gomel  
 +375296206170  
 avervalpet@gmail.com  
-https://github.com/Developer4you  
+[GitHub] (https://github.com/Developer4you)  
 
 
 *My goal is to help people by creating cool apps in a team of like-minded people. Thanks to perseverance and curiosity, I am constantly developing and learning every day.*

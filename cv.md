@@ -1,10 +1,10 @@
 ![myPhoto](/myPhoto.jpg)
 # Averkin Andrei
-Frontend developer
-Republic of Belarus, Gomel
-+375296206170
-avervalpet@gmail.com
-https://github.com/Developer4you
+Frontend developer  
+Republic of Belarus, Gomel  
++375296206170  
+avervalpet@gmail.com  
+https://github.com/Developer4you  
 
 
 *My goal is to help people by creating cool apps in a team of like-minded people. Thanks to perseverance and curiosity, I am constantly developing and learning every day.*
@@ -43,6 +43,6 @@ Engineer for the Prevention and Elimination of Emergency Situations (Institute o
 Head (project manager in construction) (training courses with the issuance of a certificate)
 Specialist in the field of public procurement and procurement at the expense of organizations ' own funds (training courses, work experience, implementation of international technical assistance projects).
 
-English language proficiency level-Intermediate (B1)
+**English language proficiency level**-Intermediate (B1)
 
 **Thank you for your time!**

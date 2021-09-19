@@ -1,4 +1,4 @@
-![myPhoto](/myPhoto.jpg)
+![myPhoto](/Photo.jpg)
 # Averkin Andrei
 Frontend developer  
 Republic of Belarus, Gomel  

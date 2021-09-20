@@ -1,28 +1,75 @@
-main{
+body{
+    margin: 0;
+    background: radial-gradient(at bottom, #FEFFFF, #207c59);  
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    display: flex;
+    background-color: grey;
+    font-size: large;
+    color: white;
+    font-style: italic;
+}
+
+li{
+    font-style: italic;    
+}
+
+footer {
+    background-color: grey;
+}
+
+footer .container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+footer img {
+    width: 150px;
+}
+
+footer a {
+    text-decoration: none;
+    color:white;
+}
+
+.photo {
+    height: 310px;
+    border-radius: 5px;
+}
+
+article{
+    font-family: 'Carattere', cursive;
+    font-size: larger;
+}
+
+.container{
     max-width: 800px;
     margin: 0 auto;
 }
 
-main > * {
-    margin: 10px;
+.container > * {
     border-radius: 5px;
-}
-
-img{
-    height: 240px;
-    border-radius: 5px;
-}
-
-code{
-    
 }
 
 .businessСard{
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
+    margin-top: 10px;
+    background-color: lightslategray;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
 .contacts{
     max-width: 550px;
-    margin:10px;
+}
+
+.project{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
 }
